@@ -295,7 +295,8 @@ body{
   .card{
     height: 150px;
     width: 140px;
-    background-color: rgb(38, 45, 50);
+    background-color: #071c27;
+    border-radius: 10px;
     text-align: center;
    
   }
