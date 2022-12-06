@@ -293,13 +293,61 @@ body{
   } 
   
   .card{
-    height: 150px;
+    height: 160px;
     width: 140px;
     background-color: #071c27;
     border-radius: 10px;
     text-align: center;
+   margin-right: 80px;
+   margin-left: 420px;
+   margin-top: 50px;
+   position: absolute;
+
+  }
+
+  .card3{
+    height: 160px;
+    width: 140px;
+    background-color: #071c27;
+    border-radius: 10px;
+    text-align: center;
+   margin-right: 80px;
+   margin-left: 420px;
+   margin-top: 220px;
+   position: absolute;
+
+  }
+
+  .card1{
+    height: 160px;
+    width: 140px;
+    background-color: #071c27;
+    border-radius: 10px;
+    text-align: center;
+   margin-right: 80px;
+   margin-left: 600px;
+position: absolute;
+   margin-top: 50px;
    
   }
+
+
+
+  .card2{
+    height: 160px;
+    width: 140px;
+    background-color: #071c27;
+    border-radius: 10px;
+    text-align: center;
+   margin-right: 96px;
+   margin-left: 600px;
+   margin-top: 220px;
+   position: absolute;
+
+   
+  }
+
+  
 
   .cardimg{
   height: 50px;

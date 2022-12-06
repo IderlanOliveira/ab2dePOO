@@ -9,12 +9,12 @@ class Skills {
 let skill1 = new Skills(
   'Programação',
   'prog.jpg',
-  'CSS3, HTML5, JAVASCRIPT, MYSQL'
+  'Css3, html5, javascript, mysql.'
 )
 let skill2 = new Skills(
   'Solda Mig e Mag',
   'solda.jpg',
-  'Preparar equipamentos soldagem e corte e peças a serem soldadas.'
+  'Preparar equipamentos e corte de peças para soldagem.'
 )
 let skill3 = new Skills(
   'Inglês Intermediário',
