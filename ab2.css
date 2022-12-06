@@ -65,7 +65,7 @@ body{
   color: #42B9FC;
   }
   
-  #btSkills{
+  .skills{
   /* Skills */
   
   top: 61px;
@@ -83,8 +83,7 @@ body{
   font-size: 15px;
   line-height: 22px;
   /* identical to box height */
-  background-color: #041118;
-border-style: none;
+ 
   color: #42B9FC;
   
   }

@@ -1,9 +1,5 @@
 let divResultadoDoFiltro = document.getElementById('resultadoDoFiltro')
 
-let botaoSkills = document.getElementById('btSkills')
-
-botaoSkills.addEventListener('click', quandoClicarNoBotaoSkills)
-
 function quandoClicarNoBotaoSkills() {
   divResultadoDoFiltro.innerHTML = ''
 
